@@ -1,0 +1,4 @@
+//There will be more files that will be added to this repository later, but these are the scripts I have made so far.
+//I have only started the development on my game yesterday so keep that in mind.
+//These scripts are intended to be used on sprites in unity.
+//Just import the .cs files as assets into unity and drag and drop them onto a gameObject name "Player"
